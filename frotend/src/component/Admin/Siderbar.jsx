@@ -10,6 +10,8 @@ import RateReviewIcon from "@mui/icons-material/RateReview";
 import ManageAccountsIcon from "@mui/icons-material/ManageAccounts";
 import HomeIcon from "@mui/icons-material/Home";
 import ContactPageIcon from "@mui/icons-material/ContactPage";
+import PeopleIcon from '@mui/icons-material/People';
+import BusinessIcon from '@mui/icons-material/Business';
 import { useSelector } from "react-redux";
 const useStyles = makeStyles((theme) => ({
   sidebar: {
@@ -194,6 +196,27 @@ function accountHandler() {
                   <span className={classes.sideBarMenuItem_text}>Reviews</span>
                 </li>
               </Link>
+
+              <Link
+                to="/admin/employees"
+                style={{ color: "inherit", textDecoration: "none" }}
+              >
+                <li className={classes.sideBarMenuItem}>
+                  <PeopleIcon fontSize="large" />
+                  <span className={classes.sideBarMenuItem_text}>Employees</span>
+                </li>
+              </Link>
+
+              <Link
+                to="/admin/suppliers"
+                style={{ color: "inherit", textDecoration: "none" }}
+              >
+                <li className={classes.sideBarMenuItem}>
+                  <BusinessIcon fontSize="large" />
+                  <span className={classes.sideBarMenuItem_text}>Suppliers</span>
+                </li>
+              </Link>
+
 
               <Link
                 to="/contact"

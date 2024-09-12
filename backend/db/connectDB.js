@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-require("dotenv").config({ path: "backend/config/config.env" })
+require("dotenv").config({ path: "backend/config/.env" })
 function connectDB(){
     mongoose.set("strictQuery", false); 
   
