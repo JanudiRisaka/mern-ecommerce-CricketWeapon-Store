@@ -122,21 +122,19 @@ const About_UsPage = () => {
                 About Us
               </Typography>
               <Typography variant="body1" className={classes.introText_about}>
-                CricketWeapon store is an online cricket sports selling startup
-                started in 2019. We have served more than 20,000 customers
-                through social media and other platforms. We are proud to offer
-                our own products under the brand name CW, also known as "Cricket
-                Weapon".
+              Serendib Marine Fish is a pioneering live fish business 
+              established to provide high-quality marine fish to customers worldwide.
+               Since our inception, we have served thousands of satisfied customers through 
+               various platforms. We take pride in offering a diverse range of marine fish, 
+               ensuring the highest standards of quality and care.
+
               </Typography>
               <Typography variant="body1" className={classes.introText_about}>
-                CricketWeapon was founded by Lokesh Samant, a talented cricket
-                player who has represented the Under 16 and Under 19 teams.
-                Lokesh started this business to support his expenses and
-                received an overwhelming response. He has sold cricket equipment
-                to more than 20,000 customers till date. Now, he aims to expand
-                his business to an international level by launching his own
-                website and introducing new and genuine cricket products at
-                competitive prices.
+              Serendib Marine Fish was founded by a team of passionate marine enthusiasts 
+              dedicated to promoting sustainable and ethical practices in the marine fish 
+              industry. Our founders have extensive experience in marine biology and aquaculture, 
+              which has enabled us to build a reputable business known for its commitment to excellence.
+
               </Typography>
             </Grid>
           </Grid>
@@ -150,28 +148,28 @@ const About_UsPage = () => {
             Who We Are
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            CricketWeapon is dedicated to providing high-quality cricket
-            equipment and accessories to cricket enthusiasts worldwide. Our
-            mission is to empower cricketers with the best tools to enhance
-            their performance on the field. With a focus on innovation,
-            craftsmanship, and customer satisfaction, we have become a trusted
-            brand in the cricket community.
+          Serendib Marine Fish is dedicated to 
+          providing high-quality marine fish and accessories to 
+          enthusiasts worldwide. Our mission is to empower marine 
+          hobbyists with the best tools and resources to enhance their 
+          aquariums. With a focus on innovation, craftsmanship, and customer 
+          satisfaction, we have become a trusted brand in the marine fish community.
+
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            Since our inception in 2019, we have built a strong customer base
-            and expanded our product range to cater to the diverse needs of
-            players at every level. We take pride in offering genuine cricket
-            products that are carefully curated and tested for quality and
-            performance. Our team of experts works closely with manufacturers to
-            ensure that our customers receive top-notch products.
+          Since our inception, we have built a strong customer base and expanded our 
+          product range to cater to the diverse needs of marine enthusiasts at every level. 
+          We take pride in offering genuine marine fish products that are carefully curated and 
+          tested for quality and performance. Our team of experts works closely with suppliers to
+           ensure that our customers receive top-notch products.
+
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            At CricketWeapon, we believe in fostering long-term relationships
-            with our customers. We provide excellent customer service and strive
-            to exceed expectations at every step. We are committed to delivering
-            a seamless online shopping experience and ensuring customer
-            satisfaction. Join us on this exciting journey as we continue to
-            grow and expand our reach in the world of cricket.
+          At Serendib Marine Fish, we believe in fostering long-term relationships with our 
+          customers. We provide excellent customer service and strive to exceed expectations 
+          at every step. We are committed to delivering a seamless online shopping experience 
+          and ensuring customer satisfaction. Join us on this exciting journey as we continue to 
+          grow and expand our reach in the world of marine fish.
           </Typography>
         </Container>
         <Container className={classes.container_12}>
@@ -183,22 +181,21 @@ const About_UsPage = () => {
             Our Mission
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            CricketWeapon is driven by the mission to provide high-quality
-            cricket equipment and accessories at affordable prices. We aim to
-            make cricket accessible to players worldwide and support their
-            passion for the sport. Our mission is to offer a wide range of
-            cricket equipment, including bats, balls, protective gear, and
-            accessories, that meet the highest standards of quality and
-            performance.
+          Serendib Marine Fish is driven by the mission to provide high-quality marine 
+          fish and accessories at affordable prices. We aim to make marine aquariums 
+          accessible to enthusiasts worldwide and support their passion for marine life. 
+          Our mission is to offer a wide range of marine fish, including rare and exotic
+           species, as well as essential accessories, that meet the highest standards of 
+           quality and care.
+
           </Typography>
           <Typography variant="body1" className={classes.infoText_about}>
-            We are committed to continuously innovating and improving our
-            product range to meet the evolving needs of cricketers. Our team of
-            experts works closely with manufacturers and conducts rigorous
-            quality testing to ensure that every product we offer delivers
-            exceptional performance on the field. We believe that every player
-            deserves the best tools to enhance their skills and achieve their
-            cricketing goals.
+          We are committed to continuously innovating and improving our product range to 
+          meet the evolving needs of marine hobbyists. Our team of experts works closely 
+          with suppliers and conducts rigorous quality testing to ensure that every product 
+          we offer delivers exceptional performance and health. We believe that every marine 
+          enthusiast deserves the best tools and resources to enhance their aquariums and 
+          achieve their marine-keeping goals.
           </Typography>
 
           <div className={classes.buttonContainer_about}>

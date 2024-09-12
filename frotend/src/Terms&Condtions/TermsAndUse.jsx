@@ -8,99 +8,92 @@ const TermsAndConditions = () => {
       <div className="container___">
         <h1>Terms and Conditions of Sale</h1>
         <p>
-          Thank you for shopping with us! We really appreciate your business and
-          your interest in our products. We want to make sure you have a good
-          experience purchasing from our webstore, CricketWeapon.com.
+        Thank you for shopping with Serendib Marine Fish!
+         We appreciate your business and your interest in 
+         our marine fish and accessories. We want to make sure 
+         you have a good experience purchasing from our website.
+
         </p>
         <p>
-          As with any shopping experience, there are certain terms and
-          conditions that apply. By placing an order and purchasing a product
-          from our website, you agree to the terms below along with other terms
-          on our website, such as return and warranty policies, our privacy
-          policy, and terms of use. Please make sure to review everything fully
-          and carefully so you are informed about your rights and obligations.
+        By placing an order and purchasing a product from our website, 
+        you agree to the following terms and conditions, along with our 
+        return and warranty policies, privacy policy, and terms of use. 
+        Please review everything fully and carefully so you are informed 
+        about your rights and obligations.
+
         </p>
         <h2>Acceptance of These Terms</h2>
         <p>
-          You (“Customer”) may place orders for Products with CricketWeapon
-          ("we," "our") via our website. By placing an order, you consent to
-          these Terms and Conditions of Sale (“Terms”) and acknowledge that we
-          will furnish the Products subject to these Terms. Unless expressly
-          agreed to or set forth in writing by CricketWeapon, any term or
-          condition in any order or other form or correspondence that is in any
-          way inconsistent with these Terms shall be inapplicable and of no
-          force and effect whatsoever.
+        You (“Customer”) may place orders for Products with Serendib 
+        Marine Fish ("we," "our") via our website or, in certain circumstances, 
+        over the phone. By placing an order, you consent to these Terms and 
+        Conditions of Sale (“Terms”) and acknowledge that we will furnish the 
+        Products subject to these Terms. Any term or condition in any order or 
+        other form or correspondence that is inconsistent with these Terms shall 
+        be inapplicable and of no force and effect whatsoever, unless expressly 
+        agreed to in writing by Serendib Marine Fish.
+
+
         </p>
         <h2>Orders</h2>
         <p>
-          All orders are subject to CricketWeapon's acceptance. This means
-          CricketWeapon may, for any reason, refuse to accept or may cancel or
-          limit any order, or order quantity, whether or not the order has been
-          confirmed. Your receipt of an order confirmation does not mean our
-          acceptance of your order, nor is it a confirmation of our offer to
-          sell. We are simply confirming that we received your order. If we
-          cancel an order after you have already been charged, CricketWeapon
-          will refund you the charged amount.
+        All orders are subject to Serendib Marine Fish's acceptance. 
+        We may refuse to accept, cancel, or limit any order or order 
+        quantity for any reason, even after an order confirmation has 
+        been sent. If we cancel an order after you have been charged, 
+        we will refund you the charged amount.
+
         </p>
         <h2>Product Offering</h2>
         <p>
-          All product descriptions on our website are subject to change at any
-          time without notice, at our sole discretion. We reserve the right to
-          change or discontinue a product at any time. We have made every effort
-          to display the colors and images of the products as accurately as
-          possible. However, we cannot guarantee that your device’s display of
-          any color will be accurate and a true reflection of the physical item
-          upon receipt.
+        All product descriptions on our website are subject to change 
+        without notice at our sole discretion. We reserve the right to 
+        change or discontinue a product at any time. While we make every 
+        effort to display the colors and images of the products accurately, 
+        we cannot guarantee that your device's display will be an exact 
+        reflection of the physical item.
+
         </p>
         <h2>Price</h2>
         <p>
-          All prices are subject to change up to the time you place your order
-          and it is accepted by CricketWeapon. Prices for products displayed on
-          this website exclude shipping charges, which are calculated and
-          displayed depending on the shipping option for the item you select
-          when you finalize your purchase. Please note that the prices on this
-          website may differ from those in stores that stock CricketWeapon
-          products, as these stores are independent of CricketWeapon.
-          CricketWeapon reserves the right to amend pricing for any pricing
-          errors displayed due to human error, computer malfunction, or any
-          other reason. Where a pricing error is identified after you have
-          submitted an online order, CricketWeapon will notify you of the error
-          in pricing as soon as reasonably practicable, and you may elect to not
-          proceed with the purchase of any product(s) where the price has been
-          corrected.
+        All prices are subject to change until your order is accepted by 
+        Serendib Marine Fish. Prices displayed on the website exclude shipping 
+        charges, which are calculated and displayed based on the selected shipping 
+        option during checkout. The prices on the website may differ from those in 
+        physical stores that stock Serendib Marine Fish products. We reserve the 
+        right to correct pricing errors and notify you of any changes before proceeding with your order.
         </p>
         <h2>Special Offers</h2>
         <p>
-          From time to time, we may offer special promotions for some or all of
-          our products, including discounts, limited edition products, or free
-          shipping. These offers may be for a limited time only, and
-          CricketWeapon reserves the right to change or discontinue such offers
-          at any time.
+        From time to time, we may offer special promotions, including discounts, 
+        limited edition products, or free shipping. These offers are subject to 
+        change or discontinuation at any time.
         </p>
         <h2>Taxes</h2>
         <p>
-          The prices quoted for the products sold hereunder include applicable
-          taxes. Customer shall pay, and reimburse CricketWeapon if it pays, any
-          taxes, except for those based on CricketWeapon's income.
+        The prices quoted for the Products include Sri Lanka's prevailing Goods 
+        and Services Tax (GST). Customer is responsible for paying any taxes, except 
+        for those based on Serendib Marine Fish's income. If Serendib Marin Fish is 
+        required to collect and pay taxes on Customer's behalf, we may invoice Customer 
+        for those amounts.
         </p>
         <h2>Payment</h2>
         <p>
-          All orders must be paid in full prior to shipment. Payment information
-          is submitted by the customer upon the placement of any order, and
-          fulfillment and shipping of the order are subject to verification of
-          payment information and availability of funds.
+        All orders must be paid in full before shipment. We accept payment through 
+        MasterCard and Visa. Payment information is submitted upon placing an order 
+        and is subject to verification and availability of funds.
+
         </p>
         <h2>Shipping</h2>
         <p>
-          Available shipping options will be displayed during the checkout
-          process. Any timeframe provided by CricketWeapon for when the
-          product(s) may ship or be delivered is a good faith estimate. While we
-          do our best to meet that timeframe, it is not a guarantee. Actual
-          delivery of your order can be impacted by many events, some of which
-          are beyond our control. CricketWeapon cannot be held liable for late
-          deliveries. If you no longer have use for an item due to a late
-          delivery, please contact our Customer Service Department immediately.
-          Please refer to our return policy for available options.
+        Available shipping options will be displayed during the checkout 
+        process. Any shipping timeframes provided are estimates, and we cannot 
+        guarantee exact delivery dates. We are not liable for late deliveries, 
+        but if you no longer need an item due to a late delivery, please contact
+         our Customer Service Department. Refer to our return policy for available 
+         options. All risk of loss or damage to the products passes to you upon taking 
+         physical possession, and title passes to you when the products are picked up 
+         by the shipping carrier.
         </p>
         <p>
           All risk of loss or damage to the products shall pass to you, or a
@@ -110,13 +103,12 @@ const TermsAndConditions = () => {
         </p>
         <h2>Returns</h2>
         <p>
-          Once an order has been placed and accepted by CricketWeapon, customer
-          may not cancel such accepted order without CricketWeapon’s prior
-          written consent. Customer may return products for a refund of the
-          purchase price (not including initial shipping charges) plus any
-          applicable tax. Customer shall arrange for and pay return shipping
-          expenses. The product(s) must be returned to CricketWeapon within
-          thirty days of purchase.
+        Once an order has been placed and accepted, you may not cancel the 
+        order without Serendib Marine Fish's written consent. You may return 
+        products for a refund of the purchase price (excluding initial shipping 
+        charges) plus any applicable tax. Return shipping expenses are the 
+        customer's responsibility. Products must be returned within thirty days of purchase.
+
         </p>
         <h2>Warranty</h2>
         <p>
@@ -155,7 +147,7 @@ const TermsAndConditions = () => {
           To the fullest extent permitted by applicable law, you agree to
           indemnify and hold CricketWeapon harmless from and against any and all
           claims, costs, proceedings, demands, losses, defense costs (including,
-          without limitation, reasonable attorney’s fees and costs) of any kind
+          without limitation, reasonable attorney's fees and costs) of any kind
           or nature arising from or in connection with your use of our website
           or your breach of these Terms.
         </p>

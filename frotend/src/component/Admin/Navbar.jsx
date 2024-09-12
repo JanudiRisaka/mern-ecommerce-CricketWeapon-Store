@@ -87,7 +87,7 @@ const useStyles = makeStyles((theme) => ({
     },
 
     "&:hover": {
-      background: "#ed1c24",
+      background: "#3845ff",
     },
   },
   headerBottom__logo_main: {

@@ -96,7 +96,7 @@
 }
 
 .column-header:hover{
-  color: #ed1c24;
+  color: #3845ff;
   background-color: #f2f2f2c1;
   cursor: pointer;
 }
@@ -131,11 +131,11 @@
   margin-left: 0.5rem;
 }
 .icon-:hover{
- background-color: #ed1c24;
+ background-color: #3845ff;
 
 }
 .iconbtn:hover{
- background-color: #ed1c24;
+ background-color: #3845ff;
 
 }
 

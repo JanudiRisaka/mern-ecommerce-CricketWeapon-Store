@@ -47,7 +47,7 @@ gap: 5rem;
 
 }
 .cartText2:hover{
-  color: #ed1c24 !important;
+  color: #3845ff !important;
 }
 
 
@@ -100,7 +100,7 @@ gap: 1rem;
 }
 
 .emptyCartContainer .shopNowButton:hover {
-  background-color: #ed1c24;
+  background-color: #3845ff;
 }
 
 
@@ -272,11 +272,11 @@ align-items: center;
 }
 
 .coupon-box-content .MuiButton-containedPrimary:hover {
-  background-color: #ed1c24;
+  background-color: #3845ff;
 }
 
 .coupon-box-content .MuiFormHelperText-root {
-  color: #ed1c24;
+  color: #3845ff;
   font-size: 0.75rem;
 }
 .coupon-box-content .MuiInputLabel-outlined.Mui-focused {
@@ -312,8 +312,8 @@ align-items: center;
 }
 
 .btn-custom:hover {
-  background-color: #ed1c24 !important;
-  border-color: #ed1c24 !important;
+  background-color: #3845ff !important;
+  border-color: #3845ff !important;
 }
 
 .paymentLogoImg{
@@ -517,13 +517,13 @@ align-items: center;
 }
 
 .additem_increase:hover {
-   color: #ed1c24;
+   color: #3845ff;
   transition: transform 0.3s ease 0s;
   border-style: 2px solid;
 }
 
 .additem_decrease:hover {
-  color: #ed1c24;
+  color: #3845ff;
   transition: transform 0.3s ease 0s;
   border-style: 2px solid;
 }

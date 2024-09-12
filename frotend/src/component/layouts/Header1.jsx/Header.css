@@ -87,7 +87,7 @@
   cursor: pointer;
 }
 .headerLogin > button:hover {
-  color: #ed1c24;
+  color: #3780ff;
   transition: all 0.25s ease;
 }
 .headerBottom {
@@ -150,7 +150,7 @@ list-style: none;
 }
 
 .headerBottom_navMenu ul li a:hover{
-  color: #E30605;
+  color: #3780ff;
   transition: .5s ease-in-out;
 
 
@@ -166,7 +166,7 @@ list-style: none;
 }
 
 .headerBotttom_icons>*:hover{
-  color: #E30605;
+  color: #3780ff;
   transition: .5s ease-in-out;
 
 
@@ -187,7 +187,7 @@ list-style: none;
   /* border: none !important; */
 }
 .css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root:hover{
-  background-color: #E30605 !important;
+  background-color: #3780ff !important;
 
 }
 

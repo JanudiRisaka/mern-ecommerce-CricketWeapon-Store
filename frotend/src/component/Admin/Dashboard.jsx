@@ -105,7 +105,7 @@ const useStyles = makeStyles((theme) => ({
     cursor: "pointer",
     "&:hover": {
       transform: "scale(1.1) !important",
-      backgroundColor: "#ed1c24 ",
+      backgroundColor: "#3845ff ",
       boxShadow: "0px 0px 10px rgba(0, 0, 0, black) !important",
     },
     [theme.breakpoints.between("sm", "md")]: {

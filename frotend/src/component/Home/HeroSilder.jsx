@@ -89,32 +89,32 @@ const slides = [
   {
     image: require("../../Image/Cricket-wepon/img2.png"),
     quote:
-      "Unleash Your Passion for Cricket and Embrace the Thrill of the Game",
+      "Discover the finest selection of live marine fish sourced directly from the pristine waters of Sri Lanka.",
     saleText:
-      "Get in the game with up to 50% off on a wide range of cricket gear's",
+      "At Serendib Marine Fish, we prioritize the health and well-being of every fish, ensuring only the highest quality specimens for export.",
     productText: "Shop Now",
   },
   {
     image: require("../../Image/Cricket-wepon/03.jpg"),
     quote:
-      "Experience the Unparalleled Excitement and Achieve Victory with Our Premium Cricket Equipment",
+      "Connect with fellow aquarium enthusiasts and share your passion for live fish. ",
     saleText:
-      "Limited Time Offer: Don't miss out on the opportunity to upgrade your game",
+      "Join aquarium community, interact with enthusiasts, exchange tips and experiences today.",
     productText: "Buy Now",
   },
   {
     image: require("../../Image/Cricket-wepon/01.jpg"),
     quote:
-      "Gear up with the Latest Innovations and Dominate the Field like Never Before",
-    saleText: "Discover New Arrivals and stay ahead of the competition",
+      "Our system offers automated tracking and detailed analytics for thriving aquarium maintenance.",
+    saleText: "Explore latest tools to streamline live fish inventory management efficiently.",
     productText: "Explore",
   },
   {
     image: require("../../Image/Cricket-wepon/04.jpg"),
     quote:
-      "Elevate Your Performance and Unleash Your True Cricketing Potential with Our Cutting-Edge Gear",
-    saleText: "New Arrivals: Enhance your skills and excel on the field",
-    productText: "Upgrade Now",
+      "Explore diverse live fish for your aquarium with expert inventory management for happy and healthy aquatic pets.",
+    saleText: "Hurry to catch limited deals on favorite items now!",
+    productText: "Explore!",
   },
 ];
 

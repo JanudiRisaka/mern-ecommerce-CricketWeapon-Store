@@ -16,9 +16,11 @@ const TermsAndConditionsPage = () => {
       </div>
       <div className="terms-content">
         <p>
-          Thank you for shopping with CricketWeapon! We appreciate your business
-          and your interest in our cricket equipment. We want to make sure you
-          have a good experience purchasing from our website.
+        Thank you for shopping with Serendib Marine Fish! We want 
+        to ensure your satisfaction with every purchase. If you are not 
+        completely satisfied with your purchase, we offer a return policy 
+        of 30 days for most products and 7 days for select products.
+
         </p>
         <p>
           By placing an order and purchasing a product from our website, you

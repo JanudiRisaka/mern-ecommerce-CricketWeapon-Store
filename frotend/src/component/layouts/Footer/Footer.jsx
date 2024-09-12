@@ -152,7 +152,7 @@ const Footer = () => {
                     src={require("../../../Image/Footer/logo.png")}
                     alt="cricekt weapon logo"
                   />
-                  <h1 className="Foot_heading">Cricket Weapon</h1>
+                  <h1 className="Foot_heading">Serendib Marine Fish</h1>
                 </Link>
               </div>
 
@@ -265,9 +265,9 @@ const Footer = () => {
 
               <div className="foot_copyright">
                 <p>
-                  &copy; {currYear} | Cricket weapon, All Rights Reserved.
+                  &copy; {currYear} | Serendib Marine Fish, All Rights Reserved.
                   <span>
-                    <a href="iam-devesh.tech"> | Built by Iam_DEv</a>
+                    <a href="iam-devesh.tech"> | Built by DevNexify</a>
                   </span>
                 </p>
               </div>

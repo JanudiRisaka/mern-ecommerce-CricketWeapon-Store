@@ -226,7 +226,7 @@ del {
     border-radius: 5px;
 }
 .prod_details_price .badge .outofstock{
- background-color: #ff000094;
+ background-color: #3845ff;
     color: white;
     border: 1px solid;
     font-size: 14px;
@@ -306,7 +306,7 @@ ul {
 
 
 .prod_details_addtocart_btn:hover{
-     background: rgba(222, 9, 9, 0.744) !important;; 
+     background: rgba(82, 82, 255, 0.744) !important;; 
   transform: scale(1.05) !important;
  border: none !important;
      transition: transform 0.3s ease 0s !important;

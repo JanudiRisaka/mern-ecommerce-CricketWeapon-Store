@@ -196,11 +196,11 @@ box-shadow: rgb(255, 255, 255) !important;
 }
 
 .page-item:hover .page-link {
-  color: rgb(234, 10, 10);
+  color: rgb(51, 71, 255);
 }
 
 .pageItemActive {
-  background-color: #ed1c24;
+  background-color: #3a6fff;
 }
 
 .pageLinkActive {
@@ -231,7 +231,7 @@ box-shadow: rgb(255, 255, 255) !important;
 
 
 .category-link:hover {
-  color: tomato;
+  color: rgb(71, 111, 255);
 }
 
 .css-1t2bqnt {

@@ -8,35 +8,45 @@ const PrivacyPolicy = () => {
     <div className="privacy-policy-container">
      <MetaData title={"Privacy Policy"} />
       <div className="container___">
-        <h1>Privacy Policy of CricketWeapon</h1>
+        <h1>Privacy Policy of Serendib Marine Fish</h1>
         <p style={{ fontSize: "16px", fontWeight: "600" }}>
           {" "}
-          Effective Date: 23-12-2021
+          Effective Date: 12-09-2024
         </p>
         <p>
-          At CricketWeapon, we value the privacy of our customers and are
-          committed to protecting your personal information. This Privacy Policy
-          explains how we collect, use, disclose, and safeguard your information
-          when you use our website and services. Please read this Privacy Policy
-          carefully. By accessing or using our website and services, you
-          acknowledge that you have read, understood, and agree to be bound by
-          all the terms outlined in this Privacy Policy.
+        At Serendib Marine Fish, we value the privacy of our
+         customers and are committed to protecting your 
+         personal information. This Privacy Policy explains 
+         how we collect, use, disclose, and safeguard your 
+         information when you use our website and services. 
+         Please read this Privacy Policy carefully. 
+         By accessing or using our website and services, 
+         you acknowledge that you have read, understood, 
+         and agree to be bound by all the terms outlined 
+         in this Privacy Policy.
+
         </p>
         <h2>1. Information We Collect</h2>
         <h3>1.1 Personal Information:</h3>
         <p>
-          We may collect personal information that you voluntarily provide to us
-          when you register an account, place an order, subscribe to our
-          newsletter, participate in contests or surveys, or contact us for
-          support. This information may include your name, email address, phone
-          number, shipping address, billing address, and payment details.
+        We may collect personal information that you 
+        voluntarily provide to us when you register an 
+        account, place an order, subscribe to our 
+        newsletter, participate in contests or surveys, 
+        or contact us for support. This information may 
+        include your name, email address, phone number, 
+        shipping address, billing address, and payment 
+        details.
+
         </p>
         <h3>1.2 Non-Personal Information:</h3>
         <p>
-          When you interact with our website, we may collect non-personal
-          information about your device, browsing actions, and usage patterns.
-          This information may include your IP address, browser type, operating
-          system, referring URLs, and interactions with our website.
+        We may use non-personal information for various purposes, including:
+   - Analyzing trends and user behavior
+   - Monitoring and improving the functionality of our website
+   - Customizing content and advertisements
+   - Generating aggregated statistical data
+
         </p>
         <h2>2. Use of Information</h2>
         <h3>2.1 Personal Information:</h3>
@@ -87,19 +97,13 @@ const PrivacyPolicy = () => {
         </ul>
         <h2>4. Security</h2>
         <p>
-          We take reasonable measures to protect your information from
-          unauthorized access, disclosure, alteration, or destruction. However,
-          please note that no method of transmission over the internet or
-          electronic storage is completely secure, and we cannot guarantee
-          absolute security.
+        We take reasonable measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
+
         </p>
         <h2>5. Children's Privacy</h2>
         <p>
-          Our website and services are not intended for children under the age
-          of 13. We do not knowingly collect personal information from children.
-          If we become aware that we have collected personal information from a
-          child without parental consent, we will take steps to remove that
-          information from our servers.
+        Our website and services are not intended for children under the age of 13. We do not knowingly collect personal information from children. If we become aware that we have collected personal information from a child without parental consent, we will take steps to remove that information from our servers.
+
         </p>
         <h2>6. Changes to This Privacy Policy</h2>
         <p>
@@ -117,7 +121,7 @@ const PrivacyPolicy = () => {
           </Link>
         </p>
         <p>
-          By using the CricketWeapon website and services, you agree to the
+          By using the Serendib Marine Fish website and services, you agree to the
           collection, use, and disclosure of your information as described in
           this Privacy Policy.
         </p>

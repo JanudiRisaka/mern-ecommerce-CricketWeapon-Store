@@ -58,7 +58,7 @@ const useStyles = makeStyles((theme) => ({
     padding: "0.8rem 2rem   !important",
     borderRadius: "4px !important",
     "&:hover": {
-      backgroundColor: "#ed1c24 !important",
+      backgroundColor: "#3845ff !important",
       color: "white !important",
     },
   },
@@ -77,7 +77,7 @@ const useStyles = makeStyles((theme) => ({
     width: "75%",
     boxShadow: " 4px 4px 8px rgba(0, 0, 0, 0.3)",
     "&:hover": {
-      backgroundColor: "#ed1c24",
+      backgroundColor: "#3845ff",
       boxShadow: "2px 2px 6px rgba(0, 0, 0, 0.4)",
       "& svg": {
         color: "white",

@@ -105,7 +105,7 @@ confirmCartItems {
 }
 
 .orderSummary > button {
-  background-color: tomato;
+  background-color: rgb(120, 147, 255);
   color: white;
   width: 100%;
   padding: 1vmax;
@@ -117,7 +117,7 @@ confirmCartItems {
 }
 
 .orderSummary > button:hover {
-  background-color: rgb(192, 71, 50);
+  background-color: rgb(66, 63, 255);
 }
 
 @media screen and (max-width: 600px) {

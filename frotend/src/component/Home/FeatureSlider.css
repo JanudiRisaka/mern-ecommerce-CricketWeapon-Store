@@ -88,7 +88,7 @@ margin-left: 5px;
 .featured_slides:hover .featured_title,
 .featured_slides:hover .final_price,
 .featured_slides:hover .old_price {
-color: #e30605;
+color: #3780ff;
 }
 
 @media screen and (max-width: 1199px) {
@@ -252,8 +252,8 @@ border: none;
 
 .swiper-slide-active {
 opacity: 1;
-border-left: 5px solid #e30605;
-border-right: 5px solid #e30605;
+border-left: 5px solid #3780ff;
+border-right: 5px solid #3780ff;
 }
 
 /* Set transparent background for swiper dots */
