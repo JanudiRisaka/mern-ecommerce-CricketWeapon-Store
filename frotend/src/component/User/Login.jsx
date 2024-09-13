@@ -146,8 +146,8 @@ export default function Login() {
               variant="body2"
               className={classes.termsAndConditionsText}
             >
-              I accept the Cricket Weapon Terms of Use and acknowledge Cricket
-              Weapon will use my information in accordance with its
+              I accept the Serendib Marine Fish Terms of Use and acknowledge 
+              Serendib Marine Fish will use my information in accordance with its
               <Link to="/policy/privacy" className={classes.privacyText}>
                 Privacy Policy.
               </Link>
