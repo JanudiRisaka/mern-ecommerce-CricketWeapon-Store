@@ -78,13 +78,13 @@ const useStyles = makeStyles((theme) => ({
     marginTop: "2px",
   },
   clicked: {
-    color: "blue",
+    color: "red",
   },
   yes: {
     color: "green",
   },
   no: {
-    color: "blue",
+    color: "red",
   },
 }));
 
