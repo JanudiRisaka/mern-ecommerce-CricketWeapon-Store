@@ -216,8 +216,17 @@ function accountHandler() {
                   <span className={classes.sideBarMenuItem_text}>Suppliers</span>
                 </li>
               </Link>
-
-
+              <Link 
+                to="/admin/new/supplier"  // Update route to match "new supplier"
+                style={{ color: "inherit", textDecoration: "none" }}
+              >
+                <li className={classes.sideBarMenuItem}>
+                  <AddIcon fontSize="large" />
+                  <span className={classes.sideBarMenuItem_text}>
+                    Add Supplier  {/* Update text to "Add Supplier" */}
+                  </span>
+                </li>
+              </Link>
               <Link
                 to="/contact"
                 style={{ color: "inherit", textDecoration: "none" }}
