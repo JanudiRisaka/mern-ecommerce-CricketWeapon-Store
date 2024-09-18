@@ -24,17 +24,9 @@ import FormControlLabel from "@mui/material/FormControlLabel";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 
 const categories = [
-  "Cricket Kits",
-  "Batting Gloves",
-  "Batting Pads",
-  "Bats",
-  "Bags",
-  "Helmets",
-  "Balls",
-  "Stumps",
-  "Shoes",
-  "Clothing",
-  "Accessories",
+  "Aganatha",
+  "Chondrichthyes",
+  "Osteichthyes",
 ];
 
 function Products() {

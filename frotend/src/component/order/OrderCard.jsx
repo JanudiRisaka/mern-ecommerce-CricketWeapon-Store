@@ -330,7 +330,7 @@ const classes = useStyles();
                   Total:
                 </Typography>
                 <Typography variant="body2" color="141414">
-                  <strong> ₹</strong>
+                  <strong> $</strong>
                   {product.price * product.quantity}
                 </Typography>
               </div>
