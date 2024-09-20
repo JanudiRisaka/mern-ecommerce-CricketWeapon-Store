@@ -6,15 +6,23 @@
             "use": "@vercel/node"
         },
         {
-            "src": "./frotend/build", 
-            "use": "@vercel/static"
+            "src": "./frontend/package.json",
+            "use": "@vercel/static-build",
+            "config": {
+                "distDir": "build"
+            }
         }
     ],
-   
+    "routes": [
+        {
+            "src": "/api/(.*)",
+            "dest": "/backend/server.js"
+        }
+    ],
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "/backend/server.js"
+            "destination": "/frontend/build/$1"
         }
     ]
 }
